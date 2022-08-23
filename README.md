@@ -28,6 +28,8 @@ Pequena tabela com diferenças entre o Português de Portugal e do Brasil, para 
 | Chávena                    | Xícara                   |                                              |
 | Coima                      | Multa                    |                                              |
 | Comboio                    | Trem                     |                                              |
+| Crioulo                    | Linguiça                 |                                              |
+| Comboio                    | Trem                     |                                              | 
 | Cueca                      | Calcinha                 |                                              |
 | Dar o peido mestre         | Bater as botas           |                                              |
 | Descapotável               | Carro Conversível        |                                              |
