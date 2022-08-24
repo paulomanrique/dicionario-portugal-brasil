@@ -75,7 +75,7 @@ Pequena tabela com diferenças entre o Português de Portugal e do Brasil, para 
 | Peão                       | Pedestre                 |                                              |
 | Penso rápido               | Band-aid                 |                                              |
 | Pentelho seco de velho     | Não presta pra nada      |                                              |
-| Pequeno Café               | Café da manhã            |                                              |
+| Pequeno Almoço             | Café da manhã            |                                              |
 | Pêra                       | Cavanhaque               |                                              |
 | Peúgas                     | Meias                    | De por nos pés                               |
 | Pica                       | Injeção                  |                                              |
