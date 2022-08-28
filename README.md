@@ -5,6 +5,7 @@ Pequena tabela com diferenças entre o Português de Portugal e do Brasil, para 
 
 | Portugal                   | Brasil                   | Notas                                        |
 | -------------------------- | ------------------------ | -------------------------------------------- |
+| Abesbílico                 | Impressionado            |                                              |
 | Abiscoitado                | Irresponsável            |                                              |
 | Alugar                     | Alugar bens móveis       | Alugar carros, etc.                          |
 | Ananás                     | Abacaxi                  |                                              |
