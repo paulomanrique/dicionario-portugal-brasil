@@ -9,7 +9,9 @@ Pequena tabela com diferenças entre o Português de Portugal e do Brasil, para 
 | Abiscoitado                | Irresponsável            |                                              |
 | Alugar                     | Alugar bens móveis       | Alugar carros, etc.                          |
 | Ananás                     | Abacaxi                  |                                              |
+| Apara Lápis                | Apontador                | Apontador de lápis                           |
 | Arrendar                   | Alugar bens imóveis      | Alugar uma casa, apartamento                 |
+| Artigo de exposição        | Monstruário              |                                              |
 | Atar o atacador            | Amarrar o cadarço        |                                              |
 | Autobus                    | Ônibus                   |                                              |
 | Autoclismo                 | Descarga da privada      |                                              |
@@ -83,6 +85,7 @@ Pequena tabela com diferenças entre o Português de Portugal e do Brasil, para 
 | Piroco                     | Cantada                  |                                              |
 | Porras                     | Churros                  |                                              |
 | Porreiro                   | Bacana                   |                                              |
+| Porta-Chaves               | Chaveiro                 |                                              |
 | Propina                    | Mensalidade              |                                              |
 | Punheta                    |                          | É uma receita de bacalhau                    |
 | Puto                       | Adolescente              |                                              |
@@ -93,6 +96,7 @@ Pequena tabela com diferenças entre o Português de Portugal e do Brasil, para 
 | Saque                      | Roubo                    |                                              |
 | Sumo                       | Suco de frutas           |                                              |
 | Talho                      | Açougue                  |                                              |
+| Tapete de Rato             | Mouse Pad                |                                              |
 | Tasca                      | Boteco                   |                                              |
 | Telemóvel                  | Celular                  |                                              |
 | Ter lata                   | Ter coragem              | "Não tens lata pra isso"                     |
